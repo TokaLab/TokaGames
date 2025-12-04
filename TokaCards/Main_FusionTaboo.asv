@@ -1,0 +1,52 @@
+clear; clc;
+
+%% Configuration
+
+List = "List 1";
+Template = "Template_01.png";
+
+%%
+
+WordLists = importfile("Word Lists.xlsx",List);
+I = imread(Template);
+
+
+%% Create Images
+
+i = 1; 
+
+word = WordLists.Word(i);
+
+descriptio
+
+f1 = WordLists.Forbidden1(i);
+f2 = WordLists.Forbidden2(i);
+f3 = WordLists.Forbidden3(i);
+f4 = WordLists.Forbidden4(i);
+f5 = WordLists.Forbidden5(i);
+
+figure(1)
+hold off
+imshow(I)
+hold on
+% main word
+text(0.5, 0.9, word, ...
+    'Units', 'normalized', ...   % use normalized coordinates
+    'HorizontalAlignment', 'center', ...
+    'VerticalAlignment', 'middle', ...
+    'Color', 'white', ...
+    'FontSize', 22, ...
+    'FontWeight', 'bold',...
+    "FontName","times");
+
+% description
+text(0.5, 0.9, word, ...
+    'Units', 'normalized', ...   % use normalized coordinates
+    'HorizontalAlignment', 'center', ...
+    'VerticalAlignment', 'middle', ...
+    'Color', 'white', ...
+    'FontSize', 22, ...
+    'FontWeight', 'bold',...
+    "FontName","times");
+
+
