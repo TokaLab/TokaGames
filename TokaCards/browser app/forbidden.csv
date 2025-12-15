@@ -1,0 +1,32 @@
+﻿word;description;forbidden1;forbidden2;forbidden3;forbidden4;forbidden5
+NBI - Neutral Beam Injector;Description text, not over 20 words;Heatings;Accelerator;RFX;Temperature;Deuterium
+Density Limit;Description text, not over 20 words;Greenwald;Disruption;Interferometer;MARFE;X-point
+Divertor Tokamak Test - DTT;Description text, not over 20 words;Frascati;ENEA;Technology;Italy;Exhaust
+Plasma Frequency;Description text, not over 20 words;Electron density;Electromagnetic vawe;Dispersion relation;Interferometer;Oscillations
+Q factor;Description text, not over 20 words;Energy;Record;Ignition;ITER;Heatings
+Plasma;Description text, not over 20 words;Gas;Ionised;State of matter;Tokamak;Sun
+Thomson scattering;Description text, not over 20 words;Electron;Density;Temperature;Diagnostic;Laser
+Divertor;Description text, not over 20 words;Heat exhaust;Thermal Flux;Reactor component;Limiter;Tungsten
+Plasma Facing Component;Description text, not over 20 words;First wall;Heat loads;Cooling;Tungsten;Neutronics
+TCV;Description text, not over 20 words;Switzerland;Lausanne;Plasma;Tokamak;EPFL
+Fusion;Description text, not over 20 words;Sun;Tritium;Energy;Fission;Deuterium
+Debye's length;Description text, not over 20 words;Plasma;Neutral;Charge ;Shielding;Meter
+ECRH;Description text, not over 20 words;Radiowave;Gyrotrons;Heatings;Temperature;ICRH
+Interferometer;Description text, not over 20 words;Diagnostic;Refractive index;Laser ;Fringe Jumps;Electron density
+Neutron;Description text, not over 20 words;Detector;Nucleus;Proton;Isotope;Hidrogen
+Scrape Off Layer;Description text, not over 20 words;Neutrals;Separatrix;Divertor;Heat;Detachment
+Tritium;Description text, not over 20 words;Isotope;Hidrogen;Radioactive;Deuterium;Neutrons
+Cross Section;Description text, not over 20 words;Probability;Frequency;Interactions;Temperature;Reactions
+Lawson Criterium;Description text, not over 20 words;Temperature;Density;Confinement time;Energy;Q-factor
+Stellarator;Description text, not over 20 words;Tokamak;Symmetric;Reactor;W7X;Magnetic Confinement
+Deuterio;Description text, not over 20 words;Isotope;Hydrogen;Fusion;Water;Breeding Blanket
+Breeding Blanket;Description text, not over 20 words;Fuel Cycle;Neutrons;Tritium;Lithium;Lead-Beryllium
+Solov'ev solution;Description text, not over 20 words;Grad-Shafranov ;Magnetic Flux;Equilibrium;Analythic ;2D
+Saddle Coils;Description text, not over 20 words;Diagnostic;Measurements;Magnetic Flux;Mode Locking;Large
+Mirnov Coils;Description text, not over 20 words;Diagnostic;Measurements;Magnetic Fields;Fast;Local
+Superconductivity;Description text, not over 20 words;Magnetism;Criogeny;Coils;Tokamak;Nb-St
+TokaLab;Description text, not over 20 words;Open Access;Virtual;Education;Equilibrium;Diagnostic
+JT-60SA;Description text, not over 20 words;Japan;NAKA;International School;Tokamak;EUROfusion
+Tokamak;Description text, not over 20 words;Plasma;Magnetic Confinement;Russian;Reactor;Torus / Donut
+Remote Handling;Description text, not over 20 words;Robot;Control;JET;Hands;RACE
+Disruption;Description text, not over 20 words;Anomaly;MHD;Dangerous;Ramp Down;Instability
